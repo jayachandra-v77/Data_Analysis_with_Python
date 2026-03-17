@@ -1,4 +1,5 @@
 🪔 Diwali Sales Analysis
+
 📌 Overview
 
 This is a beginner-level Python project focused on analyzing Diwali sales data. The goal is to understand customer purchasing behavior, identify popular product categories, and gain basic business insights.
